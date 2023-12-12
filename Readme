@@ -1,0 +1,9 @@
+Run the below codes after Building job on jenkins
+
+sudo apt install nodejs
+
+sudo apt install npm
+
+npm install
+
+node app.js
